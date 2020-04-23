@@ -112,7 +112,7 @@
 - [Parameter-based serving pattern](./Operation-patterns/Parameter-based-serving-pattern/design_ja.md)
 
 
-- [Condition-based-serving pattern](./Lifecycle-patterns/Condition-based-serving-pattern/design_ja.md)
+- [Condition-based-serving pattern](./Operation-patterns/Condition-based-serving-pattern/design_ja.md)
 
 
 - [Antipatterns](./Operation-patterns/Anti-patterns/README.md)
