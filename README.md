@@ -108,7 +108,7 @@ The operation patterns contain configuration, logging, monitoring and alerting s
 - [Parameter-based serving pattern](./Operation-patterns/Parameter-based-serving-pattern/design_en.md)
 
 
-- [Condition-based-serving pattern](./Lifecycle-patterns/Condition-based-serving-pattern/design_en.md)
+- [Condition-based-serving pattern](./Operation-patterns/Condition-based-serving-pattern/design_en.md)
 
 - [Antipatterns](./Operation-patterns/Anti-patterns/README.md)
 
