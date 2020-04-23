@@ -21,7 +21,7 @@
 - 開発、運用コストが増大。
 
 ## Work around
-- マイクロサービスとして開発し、運用する。
+- 単一責任の原則に則り、マイクロサービスとして開発し、運用する。
 
 ## Related design pattern
 - [Prep-pred pattern](./../../Prep-pred-pattern/design_ja.md)
