@@ -11,6 +11,10 @@ This document is not the design patterns for developing machine learning model t
 All of the ML system patterns are designed to be deployed on a public cloud or a Kubernetes cluster. The document tries not to be dependent on a certain programming language or platform as possible, though since Python is the most major language for the machine learning technology, most of the patterns can be developed with Python.
 <br>
 
+## For reading
+Please refer below for reading:<br>
+[GitHub Pages](https://mercari.github.io/ml-system-design-pattern/)
+
 ## Patterns
 ### Serving patterns
 The serving patterns are a series of system designs for using machine learning models in production workflow.

@@ -11,6 +11,9 @@
 このドキュメントで書かれる機械学習システムパターンのほとんどは、パブリック・クラウドおよびKubernetesを使って稼働させることを前提に記述されています。特定のプログラミング言語に依存しない内容にするよう努めますが、機械学習で使われる最もポピュラーな言語がPythonであるため、ほとんどのデザイン・パターンはPythonで構築可能なものとなっています。
 <br>
 
+## 読み物として
+読みやすいフォーマットはこちらをご参照ください。<br>
+[GitHub Pages](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
 
 ## Patterns
 ### Serving patterns
