@@ -103,7 +103,7 @@
 - [Model-load pattern](./Operation-patterns/Model-load-pattern/design_ja.md)
 
 
-- [Date model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_ja.md)
+- [Data model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_ja.md)
 
 
 - [Prediction log pattern](./Operation-patterns/Prediction-log-pattern/design_ja.md)

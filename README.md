@@ -100,7 +100,7 @@ The operation patterns contain configuration, logging, monitoring and alerting s
 - [Model-load pattern](./Operation-patterns/Model-load-pattern/design_en.md)
 
 
-- [Date model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_en.md)
+- [Data model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_en.md)
 
 
 - [Prediction log pattern](./Operation-patterns/Prediction-log-pattern/design_en.md)
