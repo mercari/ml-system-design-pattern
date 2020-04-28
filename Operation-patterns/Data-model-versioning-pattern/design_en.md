@@ -33,7 +33,7 @@ This is one of the suggested idea of the versioning.<br>
 - Release version (`model-name X.y.z-data.split`)
 - Interface version for input and output (`model-name x.Y.z-data.split`)
 - Logic version including algorithm, library and hyperparameter (`model-name x.y.Z-data.split`)
-- Date retrieval (`model-name x.y.z-DATA.split`)
+- Data retrieval (`model-name x.y.z-DATA.split`)
 - Data store version (`model-name x.y.z-data.SPLIT`)
 
 #### Model name (`MODEL-NAME x.y.z-data.split`)
@@ -50,7 +50,7 @@ In the interface versioning, you have to only manage the version for your in-out
 There are plenty of preprocess and prediction algorithms in machine learning training and prediction, including optimization and loss fuction. Usage and tunable parameters vary depending on its language and library. The logic versioning controls preprocess, algorithm, library, and parameter that do not change interface. These changes will be managed in a code repository as a branch. It is not necessary to manage every version at experimental and development stage, or you will lose control of versioning if you do. Suggested to start version management once the model is ready for your team review.<br>
 There may be a chance that model's evaluation or loss may differ without changing its algorithm and paramater. In that case, you may store the evaluation along with a training version in your model repository. Since it is difficult to control the variation, it is better to manage as a set of training and evaluation instead of its model version.
 
-#### Date retrieval (`model-name x.y.z-DATA.split`) and Release version (`model-name X.y.z-data.split`)
+#### Data retrieval (`model-name x.y.z-DATA.split`) and Release version (`model-name X.y.z-data.split`)
 Data will be stored in some kind of DWH. Since dataset to be used in a training will be defined in the training phase, it is recommended to store the splitted data, training and testing, and maybe evaluation, separately. An important point of data versioning is to enable to retrieve the same data, without mixing up training and testing, to avoid abnormal evaluation. It is better to manage both data retrieval method as well as splitted dataset, to be able to retrieve the dataset again. At same time, it is recommended to record the dataset in specific DWH's (record in a table in database for structured data, and zip in an object storage or file storage for unstructured data).<br>
 It is necessary to manage versions for data retrieval method (`model-name x.y.z-DATA.split`) and splitted dataset (`model-name x.y.z-data.SPLIT`). Each may be better to use string versioning rather than incremental integer, or may use timestamp. The data retrieval method will be managed as query or data pipeline definition in a code repository, and dataset in DWH.
 <br>

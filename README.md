@@ -7,9 +7,13 @@ The main objective of this document is to explain system patterns for designing 
 This document is not the design patterns for developing machine learning model to achieve certain performance in accuracy, though some columns may refer to those use-cases.
 <br>
 
-## Prerequisits
+## Prerequisites
 All of the ML system patterns are designed to be deployed on a public cloud or a Kubernetes cluster. The document tries not to be dependent on a certain programming language or platform as possible, though since Python is the most major language for the machine learning technology, most of the patterns can be developed with Python.
 <br>
+
+## For reading
+Please refer below for reading:<br>
+[GitHub Pages](https://mercari.github.io/ml-system-design-pattern/)
 
 ## Patterns
 ### Serving patterns
@@ -96,7 +100,7 @@ The operation patterns contain configuration, logging, monitoring and alerting s
 - [Model-load pattern](./Operation-patterns/Model-load-pattern/design_en.md)
 
 
-- [Date model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_en.md)
+- [Data model versioning pattern](./Operation-patterns/Data-model-versioning-pattern/design_en.md)
 
 
 - [Prediction log pattern](./Operation-patterns/Prediction-log-pattern/design_en.md)
