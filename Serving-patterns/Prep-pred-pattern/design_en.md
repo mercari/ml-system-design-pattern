@@ -11,7 +11,7 @@ The `diagram2` shows deploying a proxy in front of the preprocess and prediction
 
 ## Diagram
 ### Simple prep-pred pattern
-![diagram](diagram.png)
+![diagram1](diagram1.png)
 
 ### Microservice prep-pred pattern
 ![diagram2](diagram2.png)
