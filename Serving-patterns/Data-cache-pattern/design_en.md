@@ -15,10 +15,10 @@ There are two architectures for the pattern.
 
 ## Diagram
 ### Input data cache
-![diagram](diagram.png)
+![diagram1](diagram1.png)
 
 ### Prepare data cache
-![diagram3](diagram3.png)
+![diagram2](diagram2.png)
 
 
 ## Pros
