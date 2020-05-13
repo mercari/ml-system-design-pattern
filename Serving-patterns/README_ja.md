@@ -37,7 +37,7 @@
 - Edge prediction pattern: To do
 
 
-- [Antipatterns](./Anti-patterns/README.md)
+- [Antipatterns](./Anti-patterns/README_ja.md)
 
   - [Online bigsize pattern](./Anti-patterns/Online-bigsize-pattern/design_ja.md)
 
