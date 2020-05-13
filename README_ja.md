@@ -16,7 +16,7 @@
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
 
 ## Patterns
-### Serving patterns
+### [Serving patterns](./Serving-patterns/README_ja.md)
 本番サービスで推論サーバを稼働させ運用するパターン。
 - [Web single pattern](./Serving-patterns/Web-single-pattern/design_ja.md)
 
@@ -54,7 +54,7 @@
 - Edge prediction pattern: To do
 
 
-- [Antipatterns](./Serving-patterns/Anti-patterns/README.md)
+- [Antipatterns](./Serving-patterns/Anti-patterns/README_ja.md)
 
   - [Online bigsize pattern](./Serving-patterns/Anti-patterns/Online-bigsize-pattern/design_ja.md)
 
