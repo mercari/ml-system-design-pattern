@@ -16,7 +16,7 @@ Please refer below for reading:<br>
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/)
 
 ## Patterns
-### Serving patterns
+### [Serving patterns](./Serving-patterns/README.md)
 The serving patterns are a series of system designs for using machine learning models in production workflow.
 - [Web single pattern](./Serving-patterns/Web-single-pattern/design_en.md)
 
@@ -59,7 +59,7 @@ The serving patterns are a series of system designs for using machine learning m
 
   - [All-in-one pattern](./Serving-patterns/Anti-patterns/All-in-one-pattern/design_en.md)
 
-### QA patterns
+### [QA patterns](./QA-patterns/README.md)
 Pattens to evaluate model as well as prediction server.
 - [Shadow AB-testing pattern](./QA-patterns/Shadow-ab-test-pattern/design_en.md)
 
@@ -73,7 +73,7 @@ Pattens to evaluate model as well as prediction server.
 
   - [Offline-only pattern](./QA-patterns/Anti-patterns/Offline-only-pattern/design_en.md)
 
-### Training patterns
+### [Training patterns](./Training-patterns/README.md)
 Patterns to construct training pipeline.
 - [Batch training pattern](./Training-patterns/Batch-training-pattern/design_en.md)
 
@@ -92,7 +92,7 @@ Patterns to construct training pipeline.
 
   - [Too many pipes pattern](./Training-patterns/Anti-patterns/Too-many-pipes-pattern/design_en.md)
 
-### Operation patterns
+### [Operation patterns](./Operation-patterns/README.md)
 The operation patterns contain configuration, logging, monitoring and alerting system designs for machine learning system.
 - [Model-in-image pattern](./Operation-patterns/Model-in-image-pattern/design_en.md)
 
@@ -121,7 +121,7 @@ The operation patterns contain configuration, logging, monitoring and alerting s
   - [Nobody knows pattern](./Operation-patterns/Anti-patterns/Nobody-knows-pattern/design_en.md)
 
 
-### Lifecycle patterns
+### [Lifecycle patterns](./Lifecycle-patterns/README.md)
 The lifecycle patterns contain composition of several patterns to realize actual ML system with operation.
 - [Train-then-serve pattern](./Lifecycle-patterns/Train-then-serve-pattern/design_en.md)
 

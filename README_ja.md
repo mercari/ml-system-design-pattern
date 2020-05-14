@@ -16,7 +16,7 @@
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
 
 ## Patterns
-### Serving patterns
+### [Serving patterns](./Serving-patterns/README_ja.md)
 本番サービスで推論サーバを稼働させ運用するパターン。
 - [Web single pattern](./Serving-patterns/Web-single-pattern/design_ja.md)
 
@@ -54,13 +54,13 @@
 - Edge prediction pattern: To do
 
 
-- [Antipatterns](./Serving-patterns/Anti-patterns/README.md)
+- [Antipatterns](./Serving-patterns/Anti-patterns/README_ja.md)
 
   - [Online bigsize pattern](./Serving-patterns/Anti-patterns/Online-bigsize-pattern/design_ja.md)
 
   - [All-in-one pattern](./Serving-patterns/Anti-patterns/All-in-one-pattern/design_ja.md)
 
-### QA patterns
+### [QA patterns](./QA-patterns/README_ja.md)
 機械学習のモデルおよび推論器を評価するためのパターン。
 - [Shadow AB-testing pattern](./QA-patterns/Shadow-ab-test-pattern/design_ja.md)
 
@@ -71,11 +71,11 @@
 - [Loading test pattern](./QA-patterns/Loading-test-pattern/design_ja.md)
 
 
-- [Antipatterns](./QA-patterns/Anti-patterns/README.md)
+- [Antipatterns](./QA-patterns/Anti-patterns/README_ja.md)
 
   - [Offline-only pattern](./QA-patterns/Anti-patterns/Offline-only-pattern/design_ja.md)
 
-### Training patterns
+### [Training patterns](./Training-patterns/README_ja.md)
 学習パイプラインを構成するパターン。
 - [Batch training pattern](./Training-patterns/Batch-training-pattern/design_ja.md)
 
@@ -86,7 +86,7 @@
 - [Parameter and architecture search pattern](./Training-patterns/Parameter-and-architecture-search-pattern/design_ja.md)
 
 
-- [Antipatterns](./Training-patterns/Anti-patterns/README.md)
+- [Antipatterns](./Training-patterns/Anti-patterns/README_ja.md)
 
   - [Only-me pattern](./Training-patterns/Anti-patterns/Only-me-pattern/design_ja.md)
 
@@ -95,7 +95,7 @@
   - [Too many pipes pattern](./Training-patterns/Anti-patterns/Too-many-pipes-pattern/design_ja.md)
 
 
-### Operation patterns
+### [Operation patterns](./Operation-patterns/README_ja.md)
 推論器を管理、運用するためのパターン。
 - [Model-in-image pattern](./Operation-patterns/Model-in-image-pattern/design_ja.md)
 
@@ -118,13 +118,13 @@
 - [Condition-based-serving pattern](./Operation-patterns/Condition-based-serving-pattern/design_ja.md)
 
 
-- [Antipatterns](./Operation-patterns/Anti-patterns/README.md)
+- [Antipatterns](./Operation-patterns/Anti-patterns/README_ja.md)
 
   - [No logging pattern](./Operation-patterns/Anti-patterns/No-logging-pattern/design_ja.md)
 
   - [Nobody knows pattern](./Operation-patterns/Anti-patterns/Nobody-knows-pattern/design_ja.md)
 
-### Lifecycle patterns
+### [Lifecycle patterns](./Lifecycle-patterns/README_ja.md)
 複数のパターンを組み合わせて機械学習システム全体を構成するパターン。
 - [Train-then-serve pattern](./Lifecycle-patterns/Train-then-serve-pattern/design_ja.md)
 
@@ -132,7 +132,7 @@
 - [Training-to-serving pattern](./Lifecycle-patterns/Training-to-serving-pattern/design_ja.md)
 
 
-- [Antipatterns](./Lifecycle-patterns/Anti-patterns/README.md)
+- [Antipatterns](./Lifecycle-patterns/Anti-patterns/README_ja.md)
 
   - Todo
 
