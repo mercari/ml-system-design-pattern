@@ -16,7 +16,7 @@ Please refer below for reading:<br>
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/)
 
 ## Patterns
-### Serving patterns
+### [Serving patterns](./Serving-patterns/README.md)
 The serving patterns are a series of system designs for using machine learning models in production workflow.
 - [Web single pattern](./Serving-patterns/Web-single-pattern/design_en.md)
 
