@@ -11,9 +11,7 @@ If the number of models become too large, the amount of work you need for the mo
 Separating the condition depends on how the model input, feature and target vary. There may be a chance that you use a same model for morning and night time. On the other hand, it may cause an operational mistake if you make a conditional separation way different from person's understanding of condition.
 
 ## Diagram
-![Time-based](diagram1.png)
-
-![Location-based](diagram2.png)
+![diagram](diagram.png)
 
 
 ## Pros
