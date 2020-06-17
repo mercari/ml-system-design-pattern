@@ -1,4 +1,4 @@
-Parameter-based serving pattern
+# Parameter-based serving pattern
 
 ## Usecase
 - 推論器を変数で制御したい場合

@@ -50,6 +50,7 @@ The serving patterns are a series of system designs for using machine learning m
 
 - [Multiple stage prediction pattern](./Serving-patterns/Multiple-stage-prediction-pattern/design_en.md)
  
+- [Serving template pattern](./Serving-patterns/Serving-template-pattern/design_en.md)
 
 - Edge prediction pattern: To do
 
