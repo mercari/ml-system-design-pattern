@@ -31,7 +31,8 @@
 
 
 - [Multiple stage prediction pattern](./Multiple-stage-prediction-pattern/design_en.md)
- 
+
+- [Serving template pattern](./Serving-template-pattern/design_en.md)
 
 - Edge prediction pattern: To do
 
