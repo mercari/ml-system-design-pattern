@@ -4,7 +4,7 @@
 - When you want to quickly release the predictor in the simplest architecture.
 
 ## Architecture
-The web single pattern is an architecture that packs all the artifacts and coode for the prediction model in a web server. Since the single server REST (or GRPC) interface, preprocess, and trained model are in one place, you can create and deploy them as a simple predictor.<br>
+The web single pattern is an architecture that packs all the artifacts and code for the prediction model in a web server. Since the single server REST (or GRPC) interface, preprocess, and trained model are in one place, you can create and deploy them as a simple predictor.<br>
 If you want to deploy multiple replicas, you need to deploy them behind a load balancer or proxy. In case you are using GRPC for the interface, you need to consider client side load balancing or layer-7 load balancer.<br>
 To build your model into a web server, you can adopt either [model-in-image pattern](./../../Operation-patterns/Model-in-image-pattern/design_en.md) or [model-load pattern](./../../Operation-patterns/Model-load-pattern/design_en.md).
 
@@ -14,9 +14,9 @@ To build your model into a web server, you can adopt either [model-in-image patt
 ## Pros
 - Able to use one programming language, such as Python, for the web server, preprocess and inference.
 - Easy to manage because of it's simplicity.
-- Easier troubleshooting
-- Minimal time-to-productionize your trained model
-- It is usually suggested to start your production architecture with deploying your models in the web single pattern in a synchronous system.
+- Easier troubleshooting.
+- Minimal time-to-productionize post model training.
+- It is usually suggested to start your production architecture with deploying your models in the web single pattern in a synchronous fashion.
 
 ## Cons
 - Since all components are packed in a server or a docker image, applying a small patch will require updating the whole image
