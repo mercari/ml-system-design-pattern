@@ -2,7 +2,7 @@
 
 ## Usecase
 - When the immediate process does not depend on the prediction.
-- To separate client requesting prediction and destination to respond to.
+- To separate the client which is making the prediction request and the destination where response is expected.
 
 ## Architecture
 The asynchronous pattern realizes separation of a prediction request and prediction retrieval with placing queue or cache in between the client and predictor. It will allow the client to not to wait for the inference latency. In order for the client to get the prediction, you have to add poling to pull the result from the queue. If you want the prediction result to be retrieved by a resource other than the client, like `Diagram2`, it can proceed to the next step without waiting for the prediction latency.<br>
