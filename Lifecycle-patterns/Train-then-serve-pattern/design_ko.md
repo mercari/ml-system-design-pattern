@@ -13,7 +13,7 @@
  <br>
 실제 운영 환경에서는 프록시 환경 변수 수정으로 운영 중인 모델의 예측 동작을 업데이트 할 수 있는 [parameter-based serving pattern](../../Operation-patterns/Parameter-based-serving-pattern/design_ko.md)이 효과적일 수도 있습니다. 서비스 관리 측면에서 [prediction log pattern](../../Operation-patterns/Prediction-log-pattern/design_ko.md)과 [prediction monitoring pattern](../../Operation-patterns/Prediction-monitoring-pattern/design_ko.md)은 반드시 사용되어야 합니다. 
 <br>
-서빙 패턴과 QA 패턴을 선택하는 것은 운영 요건에 따라 달라질 수 있지만, 결국 여러 패턴의 조합이 될 것이라 생각합니다. 아래 그림은 [web single pattern](../../Serving-patterns/Web-single-pattern/design_ko.md)과  [online AB testing pattern](../../QA-patterns/Online-ab-test-pattern/design_ko.md)의 조합을 표현한 다이어그램입니다. 로그들은 DWH(Data Ware House)에 기록되어 모델 개선과 재학습에 사용됩니다. 
+서빙 패턴과 QA 패턴을 선택하는 것은 운영 요건에 따라 달라질 수 있지만, 결국 여러 패턴의 조합이 될 것이라 생각합니다. 아래 그림은 [web single pattern](../../Serving-patterns/Web-single-pattern/design_ko.md)과  [online AB testing pattern](../../QA-patterns/Online-ab-test-pattern/design_ko.md)의 조합을 표현한 다이어그램입니다. 로그들은 데이터 웨어하우스에 기록되어 모델 개선과 재학습에 사용됩니다. 
 <br>
 학습과 서빙 단계 분리의 장점은 릴리즈 전에 모델을 평가할 수 있다는 것입니다. 만약 릴리즈 전 테스트 데이터셋 기반의 평가가 충분하지 않다 생각되거나 수동 품질 보증이 필요한 경우 이 구성을 생각해 볼 수 있습니다. 또한, 이 패턴은 학습 및 서빙을 구분함으로써 학습 파이프라인의 장애가 서빙 시스템과 릴리즈에 직접적인 영향을 끼치지 않아 서비스 가용성을 강화시켜줍니다. 하지만 모델을 실시간 혹은 자주 업데이트해야 하는 경우는 적합하지 않습니다. 
 

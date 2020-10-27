@@ -4,7 +4,7 @@
 - 가장 간단한 아키텍처에서 예측 서버를 빠르게 출시하고 싶은 경우.
 
 ## Architecture
-웹 단일 패턴은 예측 모델을 위한 모든 아티팩트를 웹 서버에 함께 저장하는 구조입니다. 단일 서버 REST(또는 GRPC) 인터페이스, 전처리, 훈련된 모델을 한 곳에서 사용하기 때문에 예측 서버를 간단히 생성하고 배포할 수 있습니다.<br>
+Web single pattern은 예측 모델을 위한 모든 아티팩트를 웹 서버에 함께 저장하는 구조입니다. 단일 서버 REST(또는 GRPC) 인터페이스, 전처리, 훈련된 모델을 한 곳에서 사용하기 때문에 예측 서버를 간단히 생성하고 배포할 수 있습니다.<br>
 만약 여러 복제본을 배포하려면, 로드 밸런서나 프록시를 사용해 배포할 수 있습니다. 인터페이스에 GRPC를 사용하는 경우, 클라이언트측 로드 밸런싱 또는 L7 로드 밸런서를 고려해야 합니다. <br>
 웹 서버에 모델을 빌드하려면, [Model-in-image pattern](./../../Operation-patterns/Model-in-image-pattern/design_ko.md) 또는 [Model-load pattern](./../../Operation-patterns/Model-load-pattern/design_ko.md) 중 하나를 적용할 수 있습니다.
 
