@@ -17,7 +17,6 @@ A difficulty of the pattern is that the image building latency tends to get long
 
 ## Cons
 - You need to define a complete pipeline of a model training and image building.
-- Not scalable if you have to host multiple models in your prediction service. For example, if you have a separate model for feature extraction, or an ensemble of models for prediction etc, then the memory requirements for your service are very high.
 - Takes longer to build image and deploy.
 
 ## Needs consideration
