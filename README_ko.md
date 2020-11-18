@@ -146,6 +146,9 @@ ML 학습 시스템의 설정과 로깅, 모니터링, 알람 시스템을 위�
 ## Committers
 
  * Yusuke Shibui ([@shibuiwilliam](https://github.com/shibuiwilliam))
+ * Sung Yun Byeon ([@zzsza](https://github.com/zzsza))
+ * Jiyeon Seo ([@jiyeonseo](https://github.com/jiyeonseo))
+ * Daeyoon Jin ([@zetbouaka](https://github.com/zetbouaka))
 
 ## 기여하기
 
