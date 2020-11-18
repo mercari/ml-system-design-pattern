@@ -142,6 +142,9 @@
 ## Committers
 
  * Yusuke Shibui ([@shibuiwilliam](https://github.com/shibuiwilliam))
+ * Sung Yun Byeon ([@zzsza](https://github.com/zzsza))
+ * Jiyeon Seo ([@jiyeonseo](https://github.com/jiyeonseo))
+ * Daeyoon Jin ([@zetbouaka](https://github.com/zetbouaka))
 
 ## Contribution
 
