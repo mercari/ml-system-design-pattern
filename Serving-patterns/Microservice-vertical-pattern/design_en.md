@@ -25,7 +25,7 @@ You may place a proxy in between client and prediction services. You may expect 
 - Since the predictions run synchronous order, it will require higher latency.
 - A former prediction latency may be bottleneck.
 - Complex system structure and workflow.
-- 
+
 ## Needs consideration
 - You may need to consider concrete performance tuning to meet required service level.
 - The system structure will become complex. It is better to try to make the interfaces and servers common.
