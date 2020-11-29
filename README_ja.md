@@ -1,4 +1,4 @@
-[English](./README.md)
+[English](./README.md) [Korean](./README_ko.md)
 # 機械学習システム デザインパターン
 機械学習システムを本番稼働させるために必要な学習、推論、運用のアーキテクチャ・デザイン・パターン集です。
 
@@ -142,6 +142,9 @@
 ## Committers
 
  * Yusuke Shibui ([@shibuiwilliam](https://github.com/shibuiwilliam))
+ * Sung Yun Byeon ([@zzsza](https://github.com/zzsza))
+ * Jiyeon Seo ([@jiyeonseo](https://github.com/jiyeonseo))
+ * Daeyoon Jin ([@zetbouaka](https://github.com/zetbouaka))
 
 ## Contribution
 

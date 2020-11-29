@@ -1,4 +1,4 @@
-[Japanese](./README_ja.md)
+[Japanese](./README_ja.md) [Korean](./README_ko.md)
 # Machine learning system design pattern
 This repository contains system design patterns for training, serving and operation of machine learning systems in production.
 
@@ -139,6 +139,9 @@ The lifecycle patterns contain composition of several patterns to realize actual
 ## Committers
 
  * Yusuke Shibui ([@shibuiwilliam](https://github.com/shibuiwilliam))
+ * Sung Yun Byeon ([@zzsza](https://github.com/zzsza))
+ * Jiyeon Seo ([@jiyeonseo](https://github.com/jiyeonseo))
+ * Daeyoon Jin ([@zetbouaka](https://github.com/zetbouaka))
 
 ## Contribution
 
