@@ -33,6 +33,3 @@
 ## Needs consideration
 - ジョブ管理サーバの選定。
 - エラー時の対応方法。
-
-## Sample
-https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter2_training/model_db

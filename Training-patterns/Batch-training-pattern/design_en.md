@@ -35,6 +35,3 @@ For the 5. and 6., it may be system issue of building or recording error. You ma
 ## Needs consideration
 - Job management method or software.
 - Error handling.
-
-## Sample
-https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter2_training/model_db
