@@ -33,3 +33,6 @@ You may place a proxy in between client and prediction services. You may expect 
 - Synchronous or asynchronous.
 - How to manage slow model for synchronous: timeout or wait.
 - How to manage time lag for asynchronous.
+  
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/horizontal_microservice_pattern

@@ -29,3 +29,6 @@
 - 前処理モデルと推論モデルで独立して学習することはできないため、前処理と推論のパラメータを一致させる必要がある。
   - 前処理モデルと推論モデルで独立して学習している場合、システムとしては障害にならないことが多いが、推論結果が想定外になることがある。
 - 前処理器と推論器のリソースを個別にチューニングすることが必要。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prep_pred_pattern

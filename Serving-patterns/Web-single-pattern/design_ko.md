@@ -24,3 +24,6 @@ Web single pattern은 예측 모델을 위한 모든 아티팩트를 웹 서버�
 ## Needs consideration
 - 각 구성 요소의 업데이트 및 유지보수 절차
 - 웹 서버의 규모 변경 관리
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/web_single_pattern

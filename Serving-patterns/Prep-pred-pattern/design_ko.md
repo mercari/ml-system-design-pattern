@@ -29,3 +29,6 @@
 - 전처리, 예측 등 모델 전체를 독자적으로 학습하는 것은 불가능하기 때문에 여전히 한 번의 학습에서 파라미터를 조정해야 합니다.
 	- 전처리 및 예측을 별도로 개발하면, 예측이 부정확할 수 있지만, 시스템으로서 문제가 발생하지 않을 수 있습니다.
 - 리소스를 각각 따로 관리해야 합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prep_pred_pattern

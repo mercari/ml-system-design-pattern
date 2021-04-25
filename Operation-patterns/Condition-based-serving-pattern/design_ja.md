@@ -23,3 +23,6 @@
 ## Needs consideration
 - 状況の分割方法。
 - モデル数と運用負荷のバランス。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/condition_based_pattern

@@ -32,3 +32,6 @@
   - リトライする場合、推論サーバ内でリトライするか、キュー/キャッシュに戻すか。
   - データやプログラムの誤りで推論エラーになる場合、そのリクエストを停止または破棄しない限り、リトライ↔エラーが続くことがある。
 - 厳密な順番は保証されないため、入力やイベントに対する推論順が重要なワークフローの場合は検討が必要。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/asynchronous_pattern

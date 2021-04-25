@@ -22,3 +22,6 @@
 
 ## Needs consideration
 - 어떠한 케이스를 어떤 변수로 제어 가능할지.  
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/paramater_based_pattern

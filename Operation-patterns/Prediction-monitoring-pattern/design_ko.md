@@ -32,3 +32,7 @@ prediction monitoring pattern에서는 예측을 주로 모니터링합니다. �
 - 모니터링 및 알람.
 - 레벨에 따른 설정과 운영.
 - 대응 방법.
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_monitoring_pattern

@@ -29,3 +29,6 @@
 - 入力データを同定できるか検討する必要がある。
 - メリットとキャッシュのコスト、容量とのトレードオフ。
 - キャッシュクリアのタイミング。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prediction_cache_pattern

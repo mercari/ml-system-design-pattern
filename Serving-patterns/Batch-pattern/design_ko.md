@@ -26,3 +26,6 @@
   - 부분 재시도: 실패한 데이터세트에서 다시 실행합니다. 의존성이 없을 때 사용됩니다.
   - 재시도 없음: 다음 배치에서 실패한 데이터 세트에 대해 예측을 실행합니다. 엄격한 시간 제한이 없을 때 사용됩니다.
 - 만약 배치 기간이 매월 1회 또는 1년에 1번 같이 긴 경우, 모델 또는 시스템이 오래되었을 수 있으므로 배치 실행을 모니터링하거나 임시로 실행하는 것이 좋습니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/batch_pattern

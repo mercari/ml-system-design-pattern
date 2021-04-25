@@ -24,3 +24,7 @@
 
 ## Needs consideration
 - 서버 이미지와 모델 파일의 버전 및 의존성 관리.
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_load_pattern

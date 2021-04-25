@@ -22,3 +22,6 @@ MLモデルは学習によってパラメータが固定されるため、一般
 
 ## Needs consideration
 - どのケースをどういうルールと変数で対応するか。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/paramater_based_pattern

@@ -23,3 +23,7 @@ condition-based serving pattern은 상황에 따라 모델을 선택하는 구�
 ## Needs consideration
 - 상황을 구분하는 방법
 - 모델 수와 모델 운영 사이의 균형
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/condition_based_pattern

@@ -23,3 +23,6 @@ In contrast to the online AB test pattern, the shadow AB test pattern will allow
 
 ## Needs consideration
 - Evaluation and decision policy of go or no go for the new model.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/shadow_ab_pattern

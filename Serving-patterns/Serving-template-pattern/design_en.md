@@ -41,3 +41,6 @@ The last section lists step-by-step template level from infrastructure layer to 
 ## Needs consideration
 - Backward compatibility and update policy
 - Integration test
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/template_pattern

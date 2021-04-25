@@ -22,3 +22,6 @@ For those cases, it is useful to add a mechanism in your code to change behaviou
 
 ## Needs consideration
 - Which cases to control with what variable.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/paramater_based_pattern

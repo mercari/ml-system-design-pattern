@@ -23,3 +23,7 @@
 
 ## Needs consideration
 - 모델 학습부터 이미지 빌드까지의 파이프라인 정의
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_in_image_pattern

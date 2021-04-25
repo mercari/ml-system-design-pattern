@@ -36,3 +36,7 @@
 ## Needs consideration.
 - 작업 관리 방법과 소프트웨어. 
 - 에러 처리 방법. 
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter2_training/model_db

@@ -25,3 +25,6 @@
 - 로그 수집 빈도와 로그 레벨
 - 저장 빈도와 백업.
 - 분석의 목적. 
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_log_pattern

@@ -32,3 +32,6 @@ In addition, both in case of `Diagram1` and `Diagram2`, you can make the predict
   - If you need to retry, consider triggering retry in the prediction server or return to queue.
   - If the error is caused by data or programmatical issue, there may be a chance that the request keeps retrying until you manually disposes the request.
 - Since the pattern does not support ordered predition, you have to consider the workflow if you need concrete order for input or event in the usecase.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/asynchronous_pattern

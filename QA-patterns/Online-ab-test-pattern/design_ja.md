@@ -27,3 +27,6 @@
 ## Needs consideration
 - 新旧モデルへのアクセス量の割り振り方法および量
 - 収集するログおよび新旧モデルの評価方法、試験期間、停止・継続の判断基準
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/online_ab_pattern

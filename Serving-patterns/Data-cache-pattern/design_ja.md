@@ -34,3 +34,7 @@
 - メリットとキャッシュのコスト、容量とのトレードオフ。
 - キャッシュクリアのタイミング。
 - データをキャッシュするパターンの選定。
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/data_cache_pattern

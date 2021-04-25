@@ -21,3 +21,6 @@ A difficulty of the pattern is that the image building latency tends to get long
 
 ## Needs consideration
 - Pipeline definition.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_in_image_pattern

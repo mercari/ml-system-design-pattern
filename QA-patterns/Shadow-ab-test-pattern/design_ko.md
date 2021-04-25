@@ -27,3 +27,6 @@ Online AB test pattern과 달리, Shadow AB test pattern을 사용하면 적은 
 
 ## Needs consideration
 - 새 모델을 사용할지 말지에 대한 평가 방식 및 판단 기준이 필요합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/shadow_ab_pattern

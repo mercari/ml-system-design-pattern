@@ -21,3 +21,6 @@ Synchronous pattern은 예측을 동기식으로 실행할 때 사용됩니다. 
 ## Needs consideration
 - 예측 대기 시간으로 인해 사용자 경험이 악화되지 않도록 노력해야 합니다.
 - 대기 시간이 너무 길면 타임아웃이 필요합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/synchronous_pattern

@@ -26,3 +26,6 @@
 - システムのボトルネックとなる箇所
 - 多種多様な入力データを用意すること
 - 推論モデル自体が遅い場合、モデルの再開発が必要。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/load_test_pattern

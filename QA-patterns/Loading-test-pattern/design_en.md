@@ -27,3 +27,6 @@ There may be a possibility that the bottleneck exists in a load balancer, networ
 - Bottleneck and work around.
 - It is recommended to prepare a variety of dataset.
 - If the bottleneck is in model prediction, you may need to redevelop the model.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/load_test_pattern

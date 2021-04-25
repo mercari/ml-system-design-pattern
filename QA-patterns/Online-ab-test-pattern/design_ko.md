@@ -29,3 +29,6 @@ Online AB test pattern은 새로운 모델을 프러덕션경시스템에 연결
 ## Needs consideration
 - 부하 분산 정책.
 - 새 모델을 사용할지 말지에 대한 평가 방식 및 판단 기준이 필요합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/online_ab_pattern

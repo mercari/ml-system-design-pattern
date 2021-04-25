@@ -25,3 +25,6 @@ A difficulty of the pattern is to manage dependent library for the models. You a
 
 ## Needs consideration
 - Dependent version management of server image and model file.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_load_pattern
