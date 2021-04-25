@@ -30,3 +30,6 @@ Prediction monitoring pattern
 - 推論器のサービスレベル
 - 監視・通報の頻度やレベル、通報先、体制
 - 異常時の対応方法やマニュアル
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_monitoring_pattern

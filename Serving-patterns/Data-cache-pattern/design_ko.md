@@ -49,3 +49,6 @@ Data cache pattern은 입력 데이터를 캐시합니다. 입력 데이터가 �
 - 속도, 비용, 볼륨 간의 균형을 고려해야 합니다.
 - 캐시 삭제 정책이 필요합니다.
 - 데이터 캐시 정책이 필요합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/data_cache_pattern

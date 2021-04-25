@@ -29,3 +29,6 @@ Prediction cache pattern은 예측 결과를 캐시에 저장해 나중에 반�
 - 입력 데이터로 고유하게 식별이 가능해야 합니다.
 - 속도, 비용, 볼륨의 트레이드오프를 고려해야 합니다.
 - 캐시 정리 정책이 필요합니다.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prediction_cache_pattern

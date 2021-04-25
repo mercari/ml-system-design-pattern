@@ -23,3 +23,6 @@ Webシングル・パターンへのモデルの含め方は[モデル・イン�
 ## Needs consideration
 - REST実装や前処理、モデルを変更する際の更新方針。
 - 負荷増加時のWebサーバのスケール増減方法。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/web_single_pattern

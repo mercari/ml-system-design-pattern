@@ -26,3 +26,6 @@
   - 一部リトライ：失敗したデータのみ再度推論する。
   - 放置：失敗してもリトライを起動せず、次のバッチ・ジョブで推論する。
 - 毎月や毎年等、推論バッチ・ジョブを起動する時間が大きく離れる場合、機械学習モデルの有効性（Out-of-date）やサーバ自体の稼働可否をモニタリングする必要がある。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/batch_pattern

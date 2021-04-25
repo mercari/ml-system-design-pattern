@@ -33,3 +33,6 @@
 - 推論を同期的に実行するか、非同期的に実行するか。
 - 同期的に実行する場合、遅い推論をタイムアウトするか等の検討が必要。
 - 非同期的に実行する場合、推論の所要時間差の検討が必要。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/horizontal_microservice_pattern

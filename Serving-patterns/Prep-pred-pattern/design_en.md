@@ -29,3 +29,6 @@ The `diagram2` shows deploying a proxy in front of the preprocess and prediction
 - Since it is impossible to train a whole model, including preprocess and prediction, independently, you still have to tune parameters in one training.
   - If you happen to develop preprocess and prediction separately, there may not cause trouble as system, though may cause incorrectness in prediction.
 - You have to tune resources separately.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prep_pred_pattern

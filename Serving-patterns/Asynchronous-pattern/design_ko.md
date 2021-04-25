@@ -33,3 +33,7 @@ Asynchronous pattern은 클라이언트와 예측 서버 사이에 대기열이�
   - 만약 재시도해야 하면, 예측 서버에서 재시도하거나 또는 큐로 돌아갑니다.
   - 만약 오류가 데이터 또는 프로그래밍 이슈로 발생했다면, 수동으로 요청을 처리할 때까지 요청이 계속 재시도될 가능성이 있습니다.
 - 이 패턴은 순서가 있는 예측을 지원하지 않기 때문에, 사용 사례에서 입력 또는 이벤트에 대한 구체적인 워크플로우를 고려해야 합니다.
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/asynchronous_pattern

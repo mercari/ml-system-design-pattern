@@ -25,3 +25,6 @@ MLシステムを組み込んだサービスを改善するためには推論結
 - ログの収集頻度やログレベル
 - DWHへ格納する頻度や期間
 - 分析の目的
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_log_pattern

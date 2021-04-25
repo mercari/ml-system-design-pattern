@@ -25,3 +25,6 @@ To build your model into a web server, you can adopt either [model-in-image patt
 ## Needs consideration
 - Update and maintenance procedure for each component.
 - Scale change management of the web server.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/web_single_pattern

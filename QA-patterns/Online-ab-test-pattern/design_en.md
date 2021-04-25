@@ -26,3 +26,6 @@ You will let the new model to be online with responding the prediction to the cl
 ## Needs consideration
 - Load balancing policy.
 - Evaluation and decision policy of go or no go for the new model.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/online_ab_pattern

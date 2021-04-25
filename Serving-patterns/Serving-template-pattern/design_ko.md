@@ -48,3 +48,6 @@ Serving template pattern은 예측 서비스의 코드나 인프라 구성, 배�
 ## Needs consideration
 - 이전 버전과 호환성 및 업데이트 정책
 - 통합 테스트
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/template_pattern

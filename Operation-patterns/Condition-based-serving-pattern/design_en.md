@@ -23,3 +23,6 @@ Separating the condition depends on how the model input, feature and target vary
 ## Needs consideration
 - How to separate condition.
 - Balance between number of models and model management.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/condition_based_pattern

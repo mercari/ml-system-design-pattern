@@ -30,3 +30,6 @@ Configuration for monitoring and alert, with its operation, depends on service l
 - Service level.
 - Monitoring and alert configuration and operation based on the level.
 - Playbook.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_monitoring_pattern

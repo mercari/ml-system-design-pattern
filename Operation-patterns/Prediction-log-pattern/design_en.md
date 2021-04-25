@@ -25,3 +25,6 @@ Log is useful in many aspects. For instance, if the prediction or user behaviour
 - Log frequency and log level.
 - Storing frequency and backup.
 - Purpose of analysis.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter5_operations/prediction_log_pattern

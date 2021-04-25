@@ -42,3 +42,6 @@
 ## Needs consideration
 - テンプレートの後方互換性維持およびアップデート方針。
 - 後方互換性を保てない場合のインテグレーション・テスト方法。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/template_pattern

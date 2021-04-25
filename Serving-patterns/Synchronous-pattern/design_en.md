@@ -22,3 +22,6 @@ The synchronous pattern is used to run prediction synchronously. It blocks the w
 ## Needs consideration
 - Work around for not making user experience getting worse for prediction latency.
 - Needs timeout if the latency is too long.
+  
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/synchronous_pattern

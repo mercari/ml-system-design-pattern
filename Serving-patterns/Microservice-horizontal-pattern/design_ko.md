@@ -34,3 +34,6 @@ Microservice horizontal pattern은 여러 독립적인 모델을 병렬로 실�
 - 동기식 또는 비동기식.
 - 동기식에서 느린 모델을 관리하는 방법 : 타임아웃 또는 대기.
 - 비동기식에서 시간 지연을 관리하는 방법.
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/horizontal_microservice_pattern

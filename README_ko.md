@@ -16,6 +16,9 @@
 아래 링크로 더 편하게 문서를 읽어보세요. 
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/README_ko.html)
 
+## Sample implementations
+아래에서 일부 샘플 구현을 사용할 수 있습니다.
+https://github.com/shibuiwilliam/ml-system-in-actions
 ## Patterns
 ### [Serving patterns](./Serving-patterns/README_ko.md)
 서빙 패턴은 실제 운영 환경에서 머신러닝 모델을 이용할 수 있도록 만드는 일련의 시스템 디자인들입니다. 

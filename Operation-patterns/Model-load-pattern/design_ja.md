@@ -24,3 +24,6 @@
 
 ## Needs consideration
 - サーバイメージとモデルファイルのバージョニング方法および依存関係の管理。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_load_pattern

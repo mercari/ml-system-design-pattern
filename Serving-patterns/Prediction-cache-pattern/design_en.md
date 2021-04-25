@@ -29,3 +29,6 @@ If the prediction result changes with time, it requires to clear old cache to pr
 - The input data should be able to get identified with key.
 - Tradeoff between speed, cost and volume.
 - Cache clear policy.
+  
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/prediction_cache_pattern

@@ -15,6 +15,10 @@
 読みやすいフォーマットはこちらをご参照ください。<br>
 [GitHub Pages](https://mercari.github.io/ml-system-design-pattern/README_ja.html)
 
+## 実装例
+一部の実装例を以下で公開しました。
+https://github.com/shibuiwilliam/ml-system-in-actions
+
 ## Patterns
 ### [Serving patterns](./Serving-patterns/README_ja.md)
 本番サービスで推論サーバを稼働させ運用するパターン。

@@ -30,3 +30,7 @@ Loading test pattern은 기존 웹 서비스나 온라인 시스템의 부하 �
 - 병목 현상 및 해결 방법.
 - 다양한 데이터셋 준비를 추천합니다.
 - 병목 현상이 모델 예측에 있는 경우 모델을 다시 개발해야할 수 있습니다.
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter6_operation_management/load_test_pattern

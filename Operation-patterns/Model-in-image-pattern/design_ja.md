@@ -21,3 +21,7 @@
 
 ## Needs consideration
 - モデル学習からサーバイメージ構築までのパイプライン定義方法。
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter3_release_patterns/model_in_image_pattern

@@ -21,3 +21,6 @@
 ## Needs consideration
 - 推論の待機時間に対するユーザ体験の低下防止。
 - 待機時間が長い場合はクライアントからタイムアウトすることが必要になる場合もある。
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/synchronous_pattern

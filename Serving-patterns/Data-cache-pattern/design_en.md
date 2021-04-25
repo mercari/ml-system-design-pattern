@@ -34,3 +34,7 @@ There are two architectures for the pattern.
 - Tradeoff between speed, cost and volume.
 - Cache clear policy.
 - Data cache policy.
+
+
+## Sample
+https://github.com/shibuiwilliam/ml-system-in-actions/tree/main/chapter4_serving_patterns/data_cache_pattern
