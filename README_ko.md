@@ -140,7 +140,7 @@ ML 학습 시스템의 설정과 로깅, 모니터링, 알람 시스템을 위�
 - [Training-to-serving pattern](./Lifecycle-patterns/Training-to-serving-pattern/design_ko.md)
 
 
-- [Antipatterns](./Lifecycle-patterns/Anti-patterns/README_ko.md)
+- [Antipatterns](./Lifecycle-patterns/Anti-patterns/README.md)
 
   -　Todo
 
@@ -156,7 +156,7 @@ ML 학습 시스템의 설정과 로깅, 모니터링, 알람 시스템을 위�
 ## 기여하기
 
 새로운 패턴을 추가하려면 [template_design.md](./template_design.md)를 템플릿으로 사용하여 Issue를 생성하고 Pull Request를 만들어 주세요.<br>
-새로운 안티 패턴을 추가할 경우 [template_antipattern.md](./template_antipatter.md)를 템플릿으로 사용하여 Issue와 Pull Request를 만들어 주세요.<br>
+새로운 안티 패턴을 추가할 경우 [template_antipattern.md](./template_antipattern.md)를 템플릿으로 사용하여 Issue와 Pull Request를 만들어 주세요.<br>
 더 개선될 점이나 변경, 질문이 있는 경우 Issue로 제안해주세요. <br>
 
 Mercari에 기여하기 전 CLA를 주의 깊게 읽어주세요. 기여를 함으로써 CLA의 약관에 따라 이를 승낙하고 동의한 것으로 간주됩니다. 
